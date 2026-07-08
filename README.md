@@ -1,0 +1,1 @@
+Machine Learning Based Buyer Segmentation and Investment Profiling for Real Estate Market Intelligence is a data analytics project that uses Python and K-Means clustering to segment buyers based on demographics, investment preferences, and behavior. The project provides insights to support targeted marketing and smarter real estate decisions.
