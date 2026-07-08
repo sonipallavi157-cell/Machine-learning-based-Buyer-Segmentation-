@@ -4,11 +4,11 @@ import plotly.express as px
 
 # Page settings
 st.set_page_config(
-    page_title="Customer Segmentation Dashboard",
+    page_title="Buyer Segmentation Dashboard",
     layout="wide"
 )
 
-st.title("📊 Customer Segmentation Dashboard")
+st.title("📊 Buyer Segmentation Dashboard")
 
 # Load dataset
 df = pd.read_csv("clients.csv")
